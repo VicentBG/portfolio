@@ -19,7 +19,6 @@ export default {
 <style>
   html {
       font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-      background-color: gray;
     }
 </style>
 
